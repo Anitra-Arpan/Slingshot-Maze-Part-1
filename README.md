@@ -1,2 +1,2 @@
-# Slingshot-Maze-Part-1
-Project 28 by " Whitehat junior. "
+# Slingshot-Maze-Part1
+Slingshot game for Whitehat jr project
